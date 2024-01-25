@@ -2712,3 +2712,13 @@ public class HelloWorld{
 
 Note: %n or \n are used as line separators in printf().
 */   
+
+// Escape Characters
+/* 
+ \b backspace
+\f next line first character starts to the right of current line last character
+\n newline
+\r carriage return
+\t tab
+\\ backslash
+*/
